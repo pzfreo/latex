@@ -1,0 +1,209 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{pubsubclient}
+Arduino client for mqtt « knolleary,
+  \url{http://knolleary.net/arduino-client-for-mqtt/}, (Visited on 11/13/2013)
+
+\bibitem{fried-bill-of-rights}
+A bill of rights for the internet of things - room for debate - nytimes.com,
+  \url{http://www.nytimes.com/roomfordebate/2013/09/08/privacy-and-the-internet-of-things/a-bill-of-rights-for-the-internet-of-things},
+  (Visited on 11/13/2013)
+
+\bibitem{facebook-mqtt}
+Building facebook messenger,
+  \url{https://www.facebook.com/notes/facebook-engineering/building-facebook-messenger}
+
+\bibitem{wso2-esb}
+Enterprise service bus | wso2 inc,
+  \url{http://wso2.com/products/enterprise-service-bus/}, (Visited on
+  11/13/2013)
+
+\bibitem{facebook-login}
+Facebook login, \url{https://developers.facebook.com/docs/facebook-login/}
+
+\bibitem{fitbit}
+Fitbit, \url{http://www.fitbit.com/us/company#about}
+
+\bibitem{fitbitsex}
+Fitbit users are unwittingly sharing details of their sex lives with the world,
+  \url{http://thenextweb.com/insider/2011/07/03/fitbit-users-are-inadvertently-sharing-details-of-their-sex-lives-with-the-world/},
+  (Visited on 06/04/2013)
+
+\bibitem{mosquitto-auth}
+jpmens/mosquitto-auth-plug,
+  \url{https://github.com/jpmens/mosquitto-auth-plug}, (Visited on 11/13/2013)
+
+\bibitem{mosquitto-pyauth}
+mbachry/mosquitto\_pyauth, \url{https://github.com/mbachry/mosquitto\_pyauth},
+  (Visited on 11/13/2013)
+
+\bibitem{silicon-investigations}
+Microcontroller unlocking for code recovery- silicon investigations,
+  \url{http://www.siliconinvestigations.com/Bchip/Code_ext.htm}, (Visited on
+  11/15/2013)
+
+\bibitem{ietf87-minutes}
+Minutes of the core working group at ietf meeting 87,
+  \url{http://www.ietf.org/proceedings/87/minutes/minutes-87-core}
+
+\bibitem{mqtt-history}
+Mqtt history, \url{http://mqtt.org/wiki/doku.php/history}
+
+\bibitem{oasis-mqtt-311-wd15}
+Mqtt version 3.1.1 working draft 15,
+  \url{https://www.oasis-open.org/committees/download.php/51356/mqtt-v3.1.1-wd15.pdf},
+  (Visited on 11/13/2013)
+
+\bibitem{mqtt-oasis}
+Oasis message queuing telemetry transport (mqtt) tc,
+  \url{https://www.oasis-open.org/committees/mqtt/}
+
+\bibitem{oauth-introspection-blog}
+Oauth2 introspection with wso2 esb and wso2 identity server,
+  \url{http://pzf.fremantle.org/2013/11/oauth2-introspection-with-wso2-esb-and.html}
+
+\bibitem{mosquitto}
+An open source mqtt v3.1 broker, \url{http://mosquitto.org/}, (Visited on
+  11/13/2013)
+
+\bibitem{nicholaspowerblog}
+Power profiling: Https long polling vs. mqtt with ssl, on android,
+  \url{http://stephendnicholas.com/archives/1217}, (Visited on 06/04/2013)
+
+\bibitem{wso2-identity-server}
+Wso2 identity server | wso2 inc,
+  \url{http://wso2.com/products/identity-server/}, (Visited on 11/13/2013)
+
+\bibitem{arduino}
+Arduino: Arduino, \url{http://arduino.cc}
+
+\bibitem{augusto2011xmpp}
+Augusto, A.B., Correia, M.E.: An xmpp messaging infrastructure for a mobile
+  held security identity wallet of personal and private dynamic identity
+  attributes. Proceedings of the XATA  (2011)
+
+\bibitem{aziz-mqtt}
+Aziz, B.: {A Formal Model and Analysis of the MQ Telemetry Transport Protocol}.
+  In: 9th International Conference on Availability, Reliability and Security
+  (ARES 2014). IEEE (2014)
+
+\bibitem{cavoukian2008privacy}
+Cavoukian, A.: Privacy in the clouds. Identity in the Information Society
+  1(1),  89--108 (2008)
+
+\bibitem{collina2012introducing}
+Collina, M., Corazza, G.E., Vanelli-Coralli, A.: Introducing the qest broker:
+  Scaling the iot by bridging mqtt and rest. In: Personal Indoor and Mobile
+  Radio Communications (PIMRC), 2012 IEEE 23rd International Symposium on. pp.
+  36--41. IEEE (2012)
+
+\bibitem{rfc5849}
+E.~Hammer-Lahav, E.: {The OAuth 1.0 Protocol}. {RFC} 5849, IETF (April 2010),
+  available at \url{http://tools.ietf.org/html/rfc5849}
+
+\bibitem{rfc6749}
+(ed), D.H.: {The OAuth 2.0 Authorization Framework}. {RFC} 6749, IETF (October
+  2012), available at \url{http://www.rfc-editor.org/rfc/rfc6749.txt}
+
+\bibitem{eugster2003many}
+Eugster, P.T., Felber, P.A., Guerraoui, R., Kermarrec, A.M.: The many faces of
+  publish/subscribe. ACM Computing Surveys (CSUR)  35(2),  114--131 (2003)
+
+\bibitem{evans2011internet}
+Evans, D.: The internet of things. How the Next Evolution of the Internet is
+  Changing Everything, Whitepaper, Cisco Internet Business Solutions Group
+  (IBSG)  (2011)
+
+\bibitem{evans2005connected}
+Evans-Pughe, C.: The connected car. IEE Review  51(1),  42--46 (2005)
+
+\bibitem{gilman1996distributed}
+Gilman, L., Schreiber, R.: Distributed computing with IBM MQSeries. John Wiley
+  \& Sons, Inc. (1996)
+
+\bibitem{comparingECCRSA}
+Gura, N., Patel, A., Wander, A., Eberle, H., Shantz, S.: Comparing elliptic
+  curve cryptography and rsa on 8-bit cpus. In: Joye, M., Quisquater, J.J.
+  (eds.) Cryptographic Hardware and Embedded Systems - CHES 2004, Lecture Notes
+  in Computer Science, vol. 3156, pp. 119--132. Springer Berlin Heidelberg
+  (2004), \url{http://dx.doi.org/10.1007/978-3-540-28632-5_9}
+
+\bibitem{jackson2004alloy}
+Jackson, D.: Alloy 3.0 reference manual. Software Design Group  (2004)
+
+\bibitem{json}
+{The application/json Media Type for JavaScript Object Notation (JSON)}. {RFC}
+  4627, IETF (July 2006), available at
+  \url{http://www.rfc-editor.org/rfc/rfc4627.txt}
+
+\bibitem{lee2013correlation}
+Lee, S., Kim, H., Hong, D.k., Ju, H.: Correlation analysis of mqtt loss and
+  delay according to qos level. In: Information Networking (ICOIN), 2013
+  International Conference on. pp. 714--717. IEEE (2013)
+
+\bibitem{lewis2004wireless}
+Lewis, F.L.: Wireless sensor networks. Smart environments: technologies,
+  protocols, and applications pp. 11--46 (2004)
+
+\bibitem{mengusoglu2007automated}
+Mengusoglu, E., Pickering, B.: Automated management and service provisioning
+  model for distributed devices. In: Proceedings of the 2007 workshop on
+  Automating service quality: Held at the International Conference on Automated
+  Software Engineering (ASE). pp. 38--41. ACM (2007)
+
+\bibitem{mills2011sasl}
+Mills, K.W.: A sasl and gss-api mechanism for oauth
+  draft-mills-kitten-sasl-oauth-04. txt  (2011)
+
+\bibitem{moskowitz2012hip}
+Moskowitz, R.: Hip diet exchange (dex)  (2012)
+
+\bibitem{moskowitz2012host}
+Moskowitz, R.: Host identity protocol architecture  (2012)
+
+\bibitem{myers1997simple}
+Myers, J.G.: Simple authentication and security layer (sasl)  (1997)
+
+\bibitem{draft-garcia}
+O.~Garcia-Morchon, e.a.: {Security Considerations in the IP-based Internet of
+  Things}. {Internet Draft}, IETF (September 2013), available at
+  \url{http://tools.ietf.org/html/draft-garcia-core-security-06}
+
+\bibitem{pai2011formal}
+Pai, S., Sharma, Y., Kumar, S., Pai, R.M., Singh, S.: Formal verification of
+  oauth 2.0 using alloy framework. In: Communication Systems and Network
+  Technologies (CSNT), 2011 International Conference on. pp. 655--659. IEEE
+  (2011)
+
+\bibitem{perez2005mqtt}
+Perez, J.: Mqtt performance analysis with omnet++. Master's Thesis, September
+  (2005)
+
+\bibitem{richer2013oauth}
+Richer, J.: Oauth token introspection  (2013)
+
+\bibitem{roman2011securing}
+Roman, R., Najera, P., Lopez, J.: Securing the internet of things. Computer
+  44(9),  51--58 (2011)
+
+\bibitem{saint2011extensible}
+Saint-Andre, P.: Extensible messaging and presence protocol (xmpp): Core
+  (2011)
+
+\bibitem{sandhu1994access}
+Sandhu, R.S., Samarati, P.: Access control: principle and practice.
+  Communications Magazine, IEEE  32(9),  40--48 (1994)
+
+\bibitem{sethi2012end}
+Sethi, M., Arkko, J., Keranen, A.: End-to-end security for sleepy smart object
+  networks. In: Local Computer Networks Workshops (LCN Workshops), 2012 IEEE
+  37th Conference on. pp. 964--972. IEEE (2012)
+
+\bibitem{stanford2010application}
+Stanford-Clark, A.J., Wightwick, G.R.: The application of publish/subscribe
+  messaging to environmental, monitoring, and control systems. IBM Journal of
+  Research and Development  54(4),  1--7 (2010)
+
+\end{thebibliography}
